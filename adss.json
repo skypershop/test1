@@ -1,0 +1,54 @@
+{
+	"GuideData": {
+
+		"AdsController": {
+			
+			"NetworkAds": "admob",
+
+			"BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
+				"InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
+				"NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
+
+				"BannerFacebook":"IMG_16_9_APP_INSTALL#540355099982459_540356136649022",
+				"InterstitialFacebook":"IMG_16_9_APP_INSTALL#540355099982459_540355129982456",
+				"NativeFacebook":"IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
+			
+			"AppkeyAppodeals": "5f5f47f0b58acda8ac95c6d74acfeb2455bf0231e66b7b32",
+			
+			"Cpa": false,
+			"ImageUrl": "https://i.imgur.com/NgthFxx.gif", 
+			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
+			
+			"watchNow": true,
+			"Rating": true
+			
+		}
+
+	},
+		"Huawei": {
+
+		"AdsController": {
+			
+			"NetworkAds": "appodeals",
+
+			"BannerAdmob": "ca-app-pub-2312872132306330/5135942262",
+			"InterstitialAdmob": "ca-app-pub-2312872132306330/2509778923",
+			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+			"BannerFacebook": "IMG_16_9_APP_INSTALL#540355099982459_540356136649022",
+			"InterstitialFacebook": "CAROUSEL_IMG_SQUARE_APP_INSTALL#540355099982459_540355129982456",
+			"NativeFacebook": "CAROUSEL_IMG_SQUARE_APP_INSTALL#540355099982459_694708854547082",
+			
+			"AppkeyAppodeals": "5f5f47f0b58acda8ac95c6d74acfeb2455bf0231e66b7b32",
+			
+			"Cpa": false,
+			"ImageUrl": "https://i.imgur.com/NgthFxx.gif", 
+			"LinkCpa" : "http://cpabuild.com",
+			
+			"watchNow": false,
+			"Rating": false
+		}
+
+	}
+	
+}
